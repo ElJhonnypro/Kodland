@@ -1,6 +1,7 @@
 meme_dict = {
     "cringe": "Algo embarazante",
-    "lol": "algo increible o gracioso"
+    "lol": "algo increible o gracioso",
+    "idk": "No lo se (i dont know)"
 }
 
 
