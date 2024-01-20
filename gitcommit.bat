@@ -1,0 +1,1 @@
+git add . | git commit -m "python pro curso commit" | git push | git pull
